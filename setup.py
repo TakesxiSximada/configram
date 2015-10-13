@@ -31,7 +31,7 @@ setup(
     name='configram',
     version=find_version('src/configram/version.py'),
     description='Generic application configurator like pyramid style',
-    long_description=open(here('README.rst', encoding='utf8')).read(),
+    long_description=open(here('README.rst'), encoding='utf8').read(),
     packages=find_packages(exclude=['tests*']),
     classifiers=[
         'Development Status :: 1 - Planning',
@@ -52,4 +52,7 @@ setup(
         'zope.component',
         'zope.dottedname',
         ],
+    author='TakesxiSximada',
+    author_email='takesxi.sximada@gmail.com',
+    url='https://github.com/TakesxiSximada/configram',
     )

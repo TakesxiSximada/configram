@@ -1,3 +1,2 @@
 # -*- coding: utf-8 -*-
-from .version import VERSION
-__version__ = VERSION
+from .version import __version__  # noqa
