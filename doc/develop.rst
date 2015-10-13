@@ -8,9 +8,6 @@ version
 "major.minor" versioning with developmental releases, release candidates and post-releases for minor corrections Adopts.
 See https://www.python.org/dev/peps/pep-0440
 
-Information release (no release)
-  Need specificaton.
-
 Development release
   Need tentative code.
 
